@@ -19,7 +19,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshu560hi9&theme=dark" width="400">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu560hi&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/Subrat29)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu560hi&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/himanshu560hi)
 </p>
 
 ## 🏆 Holopin Badges 🌟
