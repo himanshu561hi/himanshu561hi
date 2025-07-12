@@ -40,7 +40,7 @@
 ## Feel free to connect and explore my work. Let's make things happen! 🚀
 ## 🌐 Connect with me
 
-<a href="https://linkedin.com/in/himanshu561hi" target="_blank">
+&nbsp; &nbsp; &nbsp; <a href="https://linkedin.com/in/himanshu561hi" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="https://instagram.com/_oye_himanshu" target="_blank">
