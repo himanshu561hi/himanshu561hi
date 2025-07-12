@@ -32,5 +32,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/himanshu561hi)
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_oye_himanshu)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)]([https://your-portfolio-link.com](https://himanshu560hi.github.io/portfolio/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://himanshu560hi.github.io/portfolio/)
 
