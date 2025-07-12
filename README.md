@@ -44,3 +44,12 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_oye_himanshu)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://himanshu560hi.github.io/portfolio/)
 
+<a href="https://linkedin.com/in/himanshu561hi" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/_oye_himanshu" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" alt="Instagram"/>
+</a>
+<a href="https://himanshu560hi.github.io/portfolio/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="30" alt="Portfolio"/>
+</a>
