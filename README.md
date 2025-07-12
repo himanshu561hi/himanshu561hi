@@ -42,11 +42,10 @@
 
 <a href="https://linkedin.com/in/himanshu561hi" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
-</a>
+</a> &nbsp; &nbsp; &nbsp;
 <a href="https://instagram.com/_oye_himanshu" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" alt="Instagram"/>
-</a>
+</a> &nbsp; &nbsp; &nbsp;
 <a href="https://himanshu560hi.github.io/portfolio/" target="_blank">
   <img src="https://w7.pngwing.com/pngs/854/730/png-transparent-computer-icons-web-page-website-favicon-search-engine-optimization-symbol-website-icon-world-wide-web-icon-miscellaneous-blue-angle-thumbnail.png" width="30" alt="Portfolio"/>
 </a>
-https://cdn-icons-png.flaticon.com/512/1006/1006771.png
