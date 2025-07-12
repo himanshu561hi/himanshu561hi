@@ -80,7 +80,6 @@
         />
       </a>
     </td>
-    <td></td>
     <td align="right">
       <a href="https://holopin.io/@himanshu561hi">
         <img src="https://holopin.me/himanshu561hi" width="200" />
