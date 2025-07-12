@@ -24,6 +24,6 @@
 
 ## 🏆 Holopin Badges 🌟
 
-[![Holopin Badges](https://holopin.me/subrat29)](https://holopin.io/@himanshu560hi)
+/*[![Holopin Badges](https://holopin.me/subrat29)](https://holopin.io/@himanshu560hi)*/
 
 ## Feel free to connect and explore my work. Let's make things happen! 🚀
