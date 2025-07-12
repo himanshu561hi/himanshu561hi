@@ -28,9 +28,9 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu560hi&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/himanshu560hi)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu560hi&theme=dark" width="500">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu560hi&theme=dark" width="450">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu560hi&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28_width=500)](https://github.com/himanshu560hi)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu560hi&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/himanshu560hi)
 </p>
 
 ## 🏆 Holopin Badges 🌟
