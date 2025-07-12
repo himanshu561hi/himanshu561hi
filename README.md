@@ -82,7 +82,7 @@
     </td>
     <td>
       <a href="https://holopin.io/@himanshu561hi">
-        <img src="https://holopin.me/himanshu561hi" width="200" />
+        <img src="https://holopin.me/himanshu561hi"/>
       </a>
     </td>
   </tr>
