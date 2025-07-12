@@ -52,11 +52,40 @@
       </a>
     </td>
   </tr>
+
+</table>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/himanshu560hi">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=himanshu560hi&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
+          width="470" height="200"
+        />
+      </a>
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu560hi&theme=dark" 
+        width="470" height="200"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/himanshu560hi">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu560hi&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
+          width="470" height="200"
+        />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td></td>
     <td align="right">
-      <a href="https://holopin.io/@himanshu560hi">
-        <img src="https://holopin.io/api/user/board?user=himanshu560hi" width="200" />
+      <a href="https://holopin.io/@himanshu561hi">
+        <img src="https://holopin.me/himanshu561hi" width="200" />
       </a>
     </td>
   </tr>
