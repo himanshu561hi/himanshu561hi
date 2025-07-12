@@ -80,8 +80,6 @@
         />
       </a>
     </td>
-  </tr>
-  <tr>
     <td></td>
     <td align="right">
       <a href="https://holopin.io/@himanshu561hi">
