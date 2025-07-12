@@ -2,10 +2,20 @@
 
 ### Professional Summary 🚀
 
-- 📚 Third Year Computer Science student, graduating in 2027.
-- 💻 Strong foundation in Programming, Data Structures, and Web Development.
-- 🌐 Dedicated to crafting efficient and user-friendly solutions.
-- 🤝 Open to collaboration and eager to grow in the ever-evolving field of Computer Science.
+🎯 A passionate Full-Stack Developer from India  
+💼 Currently working on: MERN stack | Backend with Node.js  
+🌱 Learning: DevOps and AWS  
+🚀 Goal: Building scalable and secure web apps  
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: JavaScript, TypeScript, Python
+- 🌐 Frontend: React, HTML, CSS, Tailwind, Bootstrap
+- 🔧 Backend: Node.js, Express.js
+- 🛢️ Database: MongoDB
+- ☁️ DevOps: GitHub Actions, Netlify
+- 🔍 Tools: VS Code, Postman, Figma
+
 
 ## GitHub Stats 📊
 
