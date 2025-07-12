@@ -15,8 +15,7 @@
 
 ![](https://komarev.com/ghpvc/?username=himanshu561hi&color=green)
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&count_private=true&hide=prs)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu560hi&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/himanshu560hi)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshu560hi9&theme=dark" width="400">
 
