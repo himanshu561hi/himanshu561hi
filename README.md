@@ -44,7 +44,9 @@
   </tr>  
 </table>
 </p>
+
 ---
+
 ## 🚀 Technologies Used
 
 <div align="center">
