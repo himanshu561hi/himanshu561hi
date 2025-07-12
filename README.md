@@ -11,7 +11,7 @@
 
 <p align="center">
 
-[![wakatime](https://wakatime.com/badge/user/himanshu561hi.svg)](https://wakatime.com/waka_b7d6f524-d34a-4de8-b1aa-b2fe440b8d4f)
+[![wakatime](https://wakatime.com/badge/user/c5cdcb76-220d-4e7d-9df4-a954e883d5c0.svg)](https://wakatime.com/@c5cdcb76-220d-4e7d-9df4-a954e883d5c0)
 
 ![](https://komarev.com/ghpvc/?username=himanshu561hi&color=green)
   
