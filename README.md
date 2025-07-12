@@ -7,16 +7,6 @@
 - 🌱 Learning: DevOps and AWS  
 - 🚀 Goal: Building scalable and secure web apps  
 
-## 🛠️ Tech Stack
-
-- 💻 Languages: JavaScript, TypeScript, Python
-- 🌐 Frontend: React, HTML, CSS, Tailwind, Bootstrap
-- 🔧 Backend: Node.js, Express.js
-- 🛢️ Database: MongoDB
-- ☁️ DevOps: GitHub Actions, Netlify
-- 🔍 Tools: VS Code, Postman, Figma
-
-
 ## GitHub Stats 📊
 
 <p align="center">
@@ -54,7 +44,7 @@
   </tr>  
 </table>
 </p>
-
+---
 ## 🚀 Technologies Used
 
 <div align="center">
