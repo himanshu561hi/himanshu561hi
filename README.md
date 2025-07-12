@@ -72,7 +72,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center">
       <a href="https://github.com/himanshu560hi">
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu560hi&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
@@ -80,7 +80,7 @@
         />
       </a>
     </td>
-    <td align="right">
+    <td>
       <a href="https://holopin.io/@himanshu561hi">
         <img src="https://holopin.me/himanshu561hi" width="200" />
       </a>
