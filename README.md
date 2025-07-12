@@ -56,7 +56,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2">
       <a href="https://github.com/himanshu560hi">
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu560hi&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
