@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Himanshu
 
-### Professional Summary 🚀
+## 🚀 Professional Summary 
 
-🎯 A passionate Full-Stack Developer from India  
-💼 Currently working on: MERN stack | Backend with Node.js  
-🌱 Learning: DevOps and AWS  
-🚀 Goal: Building scalable and secure web apps  
+- 🎯 A passionate Full-Stack Developer from India  
+- 💼 Currently working on: MERN stack | Backend with Node.js  
+- 🌱 Learning: DevOps and AWS  
+- 🚀 Goal: Building scalable and secure web apps  
 
 ## 🛠️ Tech Stack
 
