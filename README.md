@@ -89,24 +89,13 @@
 [![Holopin Badges](https://holopin.me/himanshu561hi)](https://holopin.io/@himanshu561hi)
 
 ## Feel free to connect and explore my work. Let's make things happen! 🚀
-## 🌐 Connect with me
-
-&nbsp; &nbsp; &nbsp; <a href="https://linkedin.com/in/himanshu561hi" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
-</a> &nbsp; &nbsp; &nbsp;
-<a href="https://instagram.com/_oye_himanshu" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" alt="Instagram"/>
-</a> &nbsp; &nbsp; &nbsp;
-<a href="https://himanshu560hi.github.io/portfolio/" target="_blank">
-  <img src="https://w7.pngwing.com/pngs/854/730/png-transparent-computer-icons-web-page-website-favicon-search-engine-optimization-symbol-website-icon-world-wide-web-icon-miscellaneous-blue-angle-thumbnail.png" width="30" alt="Portfolio"/>
-</a>
 
 
 ## 🌐 Connect With Me
 <div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px;">
-  <a href="https://github.com/amangupta9454"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=cyan" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/amangupta9454"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=cyan" alt="LinkedIn"></a>
-  <a href="https://instagram.com/gupta_aman_9161"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=cyan" alt="Instagram"></a>
-  <a href="mailto:ag0567688@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=cyan" alt="Email"></a>
-  <a href="https://guptaaman.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF6C37?logo=web&logoColor=cyan" alt="Portfolio"></a>
+  <a href="https://github.com/himanshu561hi"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=cyan" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/himanshu561hi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=cyan" alt="LinkedIn"></a>
+  <a href="https://instagram.com/_oye_himanshu"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=cyan" alt="Instagram"></a>
+  <a href="mailto:himanshu561hi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=cyan" alt="Email"></a>
+  <a href="https://himanshu561hi.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6C37?logo=web&logoColor=cyan" alt="Portfolio"></a>
 </div>
