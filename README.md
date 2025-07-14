@@ -84,6 +84,10 @@
 </div>
 
 
+
+<img src="https://raw.githubusercontent.com/Yuvadi29/Yuvadi29/output/snake.svg" alt="Snake animation" width="100%" />
+
+
 ## 🏆 Holopin Badges 🌟
 
 [![Holopin Badges](https://holopin.me/himanshu561hi)](https://holopin.io/@himanshu561hi)
@@ -99,6 +103,4 @@
   <a href="mailto:himanshu561hi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=cyan" alt="Email"></a>
   <a href="https://himanshu561hi.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6C37?logo=web&logoColor=cyan" alt="Portfolio"></a>
 </div>
-
-<img src="https://raw.githubusercontent.com/Yuvadi29/Yuvadi29/output/snake.svg" alt="Snake animation" />
 
