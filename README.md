@@ -43,7 +43,7 @@
     </td>
     <td>
     <!-- Profile Summary Card -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu561hi&theme=algolia" alt="Profile Summary Card" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu561hi&theme=algolia" alt="Profile Summary Card" width="470" />
     </td>
   </tr>  
 </table>
