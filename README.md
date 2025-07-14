@@ -107,7 +107,10 @@
   <a href="https://instagram.com/_oye_himanshu/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=cyan" alt="Instagram"></a>
   <a href="mailto:himanshu561hi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=cyan" alt="Email"></a>
   <a href="https://himanshu561hi.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6C37?logo=web&logoColor=cyan" alt="Portfolio"></a>
-[![LeetCode Stats](https://leetcard.jacoblin.cool/himanshu561hi?theme=light&font=Baloo&ext=heatmap)](https://leetcode.com/himanshu561hi/)
+<a href="https://leetcode.com/himanshu561hi/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+</a>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/Yuvadi29/Yuvadi29/output/snake.svg" alt="Snake animation" width="100%" />
