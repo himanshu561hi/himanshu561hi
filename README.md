@@ -44,6 +44,10 @@
   </tr>  
 </table>
 </p>
+<p align="center">
+    <!-- Profile Summary Card -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoubhagyaGhoshal&theme=algolia" alt="Profile Summary Card" />
+</p>
 
 ## 🚀 Technologies Used
 
