@@ -85,7 +85,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Yuvadi29/Yuvadi29/output/snake.svg" alt="Snake animation" width="100%" />
 
 
 ## 🏆 Holopin Badges 🌟
@@ -104,3 +103,4 @@
   <a href="https://himanshu561hi.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6C37?logo=web&logoColor=cyan" alt="Portfolio"></a>
 </div>
 
+<img src="https://raw.githubusercontent.com/Yuvadi29/Yuvadi29/output/snake.svg" alt="Snake animation" width="100%" />
