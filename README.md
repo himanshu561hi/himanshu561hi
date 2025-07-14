@@ -90,7 +90,9 @@
 </div>
 
 
-
+<div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=himanshu561hi.himanshu561hi&left_color=gray&right_color=cyan" alt="Visitor Count" />
+</div>
 
 
 ## 🏆 Holopin Badges 🌟
