@@ -90,7 +90,8 @@
 </div>
 
 
-
+## GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=himanshu561hi&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 
 
 ## 🏆 Holopin Badges 🌟
