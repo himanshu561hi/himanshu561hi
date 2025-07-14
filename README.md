@@ -47,8 +47,9 @@
   </tr>  
 </table>
 </p>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu561hi&theme=algolia" alt="Profile Summary Card" width="95%" align="center" />
-    
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu561hi&theme=algolia" alt="Profile Summary Card" width="95%"/>
+</p>
 
 ## 🚀 Technologies Used
 
