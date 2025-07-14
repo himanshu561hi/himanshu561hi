@@ -102,15 +102,25 @@
 
 ## 🌐 Connect With Me
 <div align="center" style="background-color: #0D1117; padding: 15px; border-radius: 10px;">
-  <a href="https://github.com/himanshu561hi"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=cyan" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/himanshu561hi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=cyan" alt="LinkedIn"></a>
-  <a href="https://instagram.com/_oye_himanshu/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=cyan" alt="Instagram"></a>
-  <a href="mailto:himanshu561hi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=cyan" alt="Email"></a>
-  <a href="https://himanshu561hi.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF6C37?logo=web&logoColor=cyan" alt="Portfolio"></a>
-<a href="https://leetcode.com/himanshu561hi/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-</a>
-
+  <a href="https://github.com/himanshu561hi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=cyan" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/himanshu561hi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=cyan" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/_oye_himanshu/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=cyan" alt="Instagram">
+  </a>
+  <a href="mailto:himanshu561hi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=cyan" alt="Email">
+  </a>
+  <a href="https://himanshu561hi.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6C37?logo=web&logoColor=cyan" alt="Portfolio">
+  </a>
+  <a href="https://leetcode.com/himanshu561hi/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Profile">
+  </a>
 </div>
+
 
 <img src="https://raw.githubusercontent.com/Yuvadi29/Yuvadi29/output/snake.svg" alt="Snake animation" width="100%" />
