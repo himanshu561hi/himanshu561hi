@@ -101,7 +101,7 @@
 
 
 ## 🌐 Connect With Me
-<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
+<div align="center" style="background-color: #0D1117; padding: 40px; border-radius: 10px;">
   <a href="https://github.com/himanshu561hi">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=cyan" alt="GitHub">
   </a>
