@@ -120,6 +120,9 @@
   <a href="https://leetcode.com/himanshu561hi/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Profile">
   </a>
+  <a href="resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0A66C2?logo=readme&logoColor=cyan" alt="Resume">
+  </a>
 </div>
 
 
