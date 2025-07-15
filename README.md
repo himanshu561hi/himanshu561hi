@@ -91,11 +91,12 @@
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <!-- macOS badge -->
+ <!-- macOS badge -->
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-<!-- Windows badge -->
-![Windows](https://img.shields.io/badge/-WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<!-- Windows badge with logo -->
+![Windows](https://img.shields.io/badge/-WINDOWS-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 </div>
 
