@@ -8,7 +8,7 @@
 - 🚀 Goal: Building scalable and secure web apps  
 
 ## Wakatime 📊
-[![.](https://github-readme-stats.vercel.app/api/wakatime?username=himanshu561hi)](https://wakatime.com/@himanshu561hi)
+[![.](https://github-readme-stats.vercel.app/api/wakatime?username=himanshu561hi&theme=dark&bg_color=000000&title_color=00bfff&text_color=ffffff)](https://wakatime.com/@himanshu561hi)
 
 
 <p align="center">
