@@ -14,6 +14,10 @@
 </a>
 <br/>
 
+
+
+<br/>
+
 [![WakaTime](https://wakatime.com/badge/user/c5cdcb76-220d-4e7d-9df4-a954e883d5c0.svg)](https://wakatime.com/@c5cdcb76-220d-4e7d-9df4-a954e883d5c0)
 
 ![](https://komarev.com/ghpvc/?username=himanshu561hi&color=green)
@@ -133,3 +137,7 @@
 
 
 <img src="https://raw.githubusercontent.com/Yuvadi29/Yuvadi29/output/snake.svg" alt="Snake animation" width="100%" />
+
+
+
+### 🚀 [**View My Full Coding Stats on WakaTime →**](https://wakatime.com/@himanshu561hi)
