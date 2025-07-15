@@ -12,7 +12,8 @@
 <a href="https://wakatime.com/@himanshu561hi" target="_blank" style="text-decoration: none; color: white;">
     <b>🚀 View My Full Coding Stats on WakaTime →</b>
 </a>
-<br/>
+    
+🚀 [**View My Full Coding Stats on WakaTime →**](https://wakatime.com/@himanshu561hi)
 
 
 
@@ -140,4 +141,4 @@
 
 
 
-### 🚀 [**View My Full Coding Stats on WakaTime →**](https://wakatime.com/@himanshu561hi)
+
