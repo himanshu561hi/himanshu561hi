@@ -9,15 +9,10 @@
 
 ##
 
-
-🚀 [**View My Full Coding Stats on WakaTime →**](https://wakatime.com/@himanshu561hi)
-
-[![View WakaTime Stats](https://img.shields.io/badge/WakaTime-View%20More-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@himanshu561hi)
-
-
-<br/>
 <p>
   
+[![View WakaTime Stats](https://img.shields.io/badge/WakaTime-View%20More-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@himanshu561hi)
+
 [![WakaTime](https://wakatime.com/badge/user/c5cdcb76-220d-4e7d-9df4-a954e883d5c0.svg)](https://wakatime.com/@c5cdcb76-220d-4e7d-9df4-a954e883d5c0)
 
 ![](https://komarev.com/ghpvc/?username=himanshu561hi&color=green)
