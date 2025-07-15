@@ -13,6 +13,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/c5cdcb76-220d-4e7d-9df4-a954e883d5c0.svg)](https://wakatime.com/@c5cdcb76-220d-4e7d-9df4-a954e883d5c0)
 
+[![Himanshu's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=himanshu561hi)](https://wakatime.com/@himanshu561hi)
+
+
 ![](https://komarev.com/ghpvc/?username=himanshu561hi&color=green)
   
 <table>
