@@ -13,7 +13,7 @@
 
 <p align="center">
 
-[![VS Code Usage](https://wakatime.com/badge/user/c5cdcb76-220d-4e7d-9df4-a954e883d5c0.svg)](https://wakatime.com/@c5cdcb76-220d-4e7d-9df4-a954e883d5c0)
+[![WakaTime](https://wakatime.com/badge/user/c5cdcb76-220d-4e7d-9df4-a954e883d5c0.svg)](https://wakatime.com/@c5cdcb76-220d-4e7d-9df4-a954e883d5c0)
 
 
 
