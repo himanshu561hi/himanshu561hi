@@ -7,6 +7,7 @@
 - 🌱 Learning: DevOps and AWS  
 - 🚀 Goal: Building scalable and secure web apps  
 
+## Wakatime Stats 📊
 
 
 <p align="center">
@@ -14,6 +15,7 @@
 [![wakatime](https://wakatime.com/badge/user/c5cdcb76-220d-4e7d-9df4-a954e883d5c0.svg)](https://wakatime.com/@c5cdcb76-220d-4e7d-9df4-a954e883d5c0)
 
 ![](https://komarev.com/ghpvc/?username=himanshu561hi&color=green)
+
 ## GitHub Stats 📊
 <table>
   <tr>
