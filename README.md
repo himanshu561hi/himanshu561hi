@@ -93,10 +93,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 
-  
-![Windows](https://img.shields.io/badge/-WINDOWS-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![WINDOWS](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-
 
 
 </div>
