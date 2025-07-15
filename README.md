@@ -15,6 +15,8 @@
 
 [![Himanshu's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=himanshu561hi)](https://wakatime.com/@himanshu561hi)
 
+<figure><embed src="https://wakatime.com/share/@himanshu561hi/7d7c0a38-bced-44db-9583-0f0fa0380858.svg"></embed></figure>
+
 
 ![](https://komarev.com/ghpvc/?username=himanshu561hi&color=green)
   
