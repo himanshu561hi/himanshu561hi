@@ -8,14 +8,13 @@
 - 🚀 Goal: Building scalable and secure web apps  
 
 ##
-<p align="center">
+
 <a href="https://wakatime.com/@himanshu561hi" target="_blank" style="text-decoration:none;">
     <b>🚀 View My Full Coding Stats on WakaTime →</b>
 </a>
   
 [![WakaTime](https://wakatime.com/badge/user/c5cdcb76-220d-4e7d-9df4-a954e883d5c0.svg)](https://wakatime.com/@c5cdcb76-220d-4e7d-9df4-a954e883d5c0)
-</p>
-  
+
 
 
 
