@@ -9,7 +9,7 @@
 
 ##
 <p>
-<a href="https://wakatime.com/@himanshu561hi" target="_blank" style="text-decoration:none;">
+<a href="https://wakatime.com/@himanshu561hi" target="_blank" style="text-decoration:none; color:white">
     <b>🚀 View My Full Coding Stats on WakaTime →</b>
 </a>
 <br/>
