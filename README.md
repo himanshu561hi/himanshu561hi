@@ -130,7 +130,7 @@
   <a href="https://leetcode.com/himanshu561hi/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Profile">
   </a>
-  <a href="resume.pdf">
+  <a href="https://drive.google.com/file/d/1AadyvufpFOLWl7sCs1v1G7cZqJtdP19H/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-0A66C2?logo=readme&logoColor=cyan" alt="Resume">
   </a>
 </div>
