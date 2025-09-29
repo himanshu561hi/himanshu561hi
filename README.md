@@ -2,10 +2,12 @@
 
 ## 🚀 Professional Summary 
 
-- 🎯 A passionate Full-Stack Developer from India  
-- 💼 Currently working on: MERN stack | Backend with Node.js  
-- 🌱 Learning: DevOps and AWS  
-- 🚀 Goal: Building scalable and secure web apps  
+- 🎯 A passionate Full-Stack Developer from India.
+- 💡 Innovating at the intersection of AI & Web Development.
+- 🌱 Exploring: MERN stack | Backend with Node.js | Next.js and latest frontend trends.
+- 🔭 Currently building Interviewer – AI-powered mock interviews with instant feedback.
+- 🚀 Goal: Building scalable and secure web apps.
+- 📬 Reach me at: himanshu561hi@gmail.com
 
 ##
 
@@ -20,20 +22,20 @@
 </p>
 
 ## GitHub Stats 📊
-<table>
+<table style="align: center">
   <tr>
     <td>
       <a href="https://github.com/himanshu561hi">
         <img 
           src="https://github-readme-stats.vercel.app/api?username=himanshu561hi&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
-          width="470"
+          width="480"
         />
       </a>
     </td>
     <td>
       <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu561hi&theme=dark" 
-        width="470"
+        width="480"
       />
     </td>
   </tr>
@@ -42,7 +44,7 @@
       <a href="https://github.com/himanshu561hi">
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu561hi&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
-          width="470"
+          width="480"
         />
       </a>
     </td>
@@ -51,6 +53,9 @@
    </td>
   </tr>  
 </table>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu561hi&theme=github-compact" width="95%" />
 </p>
 <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu561hi&theme=algolia" alt="Profile Summary Card" width="95%"/>
