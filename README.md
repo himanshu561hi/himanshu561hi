@@ -130,13 +130,13 @@
   <a href="mailto:himanshu561hi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=cyan" alt="Email">
   </a>
-  <a href="https://himanshu561hi.github.io/portfolio/">
+  <a href="https://himanshu561hi.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-FF6C37?logo=web&logoColor=cyan" alt="Portfolio">
   </a>
   <a href="https://leetcode.com/himanshu561hi/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode Profile">
   </a>
-  <a href="https://drive.google.com/file/d/1AadyvufpFOLWl7sCs1v1G7cZqJtdP19H/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1QjXG6KJKuvYwekZN22QEqjW7a7u5lmTQ/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/Resume-0A66C2?logo=readme&logoColor=cyan" alt="Resume">
   </a>
 </div>
