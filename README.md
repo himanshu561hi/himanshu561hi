@@ -1,4 +1,4 @@
-# Hi there!! 👋 I'm Himanshu
+# Hi there! 👋 I'm Himanshu
 
 ## 🚀 Professional Summary 
 
